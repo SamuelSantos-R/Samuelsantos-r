@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Samuel Santos, tenho 21 anos e sou natural do Rio de Janeiro 🇧🇷.
+Olá! Sou Samuel Santos, tenho 22 anos e sou natural do Rio de Janeiro 🇧🇷.
 Atualmente curso Ciência da Computação e sou apaixonado por tecnologia, aprendizado e inovação.
 Sou autodidata, com facilidade em aprender rápido e colocar em prática novos conhecimentos.
 Além da tecnologia, também sou produtor musical e artista, área na qual comecei em 2020 e que hoje mantenho como um hobby criativo.
